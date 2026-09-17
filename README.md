@@ -31,6 +31,6 @@ The programs can also be run using any Java-supported IDE, such as: IntelliJ IDE
 The solutions are based on **LeetCode problem statements** and can be submitted to LeetCode using the required `class Solution` format. For non-LeetCode users, the programs are provided in a **standalone format with `main()` and user input**, allowing them to be compiled and executed locally.
 
 ---
-**Language:** Java   **Platform:** LeetCode
+**Platform:** LeetCode (**Language:** Java)
 
 **Author:** Aaron Dsouza
