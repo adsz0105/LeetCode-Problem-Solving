@@ -1,4 +1,4 @@
-# LeetCode Problem Solving using Java
+# LeetCode Problem Solving Using Java
 
 A collection of solutions to **LeetCode problems** solved using the **Java programming language**. The programs are written to be compatible with both **LeetCode** and **non-LeetCode users**. Each solution can be modified or run as a standalone Java program using any Java-supported IDE or through the **Command Prompt**.
 
@@ -31,6 +31,6 @@ The programs can also be run using any Java-supported IDE, such as: IntelliJ IDE
 The solutions are based on **LeetCode problem statements** and can be submitted to LeetCode using the required `class Solution` format. For non-LeetCode users, the programs are provided in a **standalone format with `main()` and user input**, allowing them to be compiled and executed locally.
 
 ---
-**Language:** Java **Platform:** LeetCode
+**Language:** Java   **Platform:** LeetCode
 
 **Author:** Aaron Dsouza
